@@ -17,9 +17,6 @@ export default function Dashboard() {
   return (
     <div className='Dash'>
         <Box>
-            <Grid>
-                {/* <DashboardNav/> */}
-            </Grid>
         </Box>
         <Box >
            <Grid container gap={7}>
