@@ -1,0 +1,21 @@
+.Categorystack{
+    width: 50vw;
+    height: 30vh;
+    overflow-x: scroll;
+    gap: 20px;
+    
+}
+.Categorystack::-webkit-scrollbar{
+    display: none;
+}
+.Active{
+    border-radius: 50%;
+    border:1px solid red;
+    padding: 2px;
+   
+}
+.category:hover{
+    transition: 0.9s;
+    padding: 15px;
+    background-color: white;
+}

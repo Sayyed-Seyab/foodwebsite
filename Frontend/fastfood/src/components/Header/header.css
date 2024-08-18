@@ -1,0 +1,23 @@
+.btn{
+   margin-top: 10px;
+    font-family: 'Outfit';
+    letter-spacing: 1px;
+    cursor: pointer;
+
+
+}
+.btn:hover{
+    background-color: red;
+    font-weight:bold;
+    color: white;
+    transition: 0.9s;
+}
+
+a {
+    padding: 10px;
+    text-decoration: none;
+    cursor: pointer;
+    color: gray;
+    display: block;
+
+}

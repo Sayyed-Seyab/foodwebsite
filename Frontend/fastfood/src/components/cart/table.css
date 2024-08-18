@@ -1,0 +1,28 @@
+.cart{
+    display: flex;
+    flex-direction: column;
+    gap: 50px;
+    font-family: 'Outfit';
+    height:90vh;
+}
+.bg{
+    background-color: tomato !important;
+    color: white !important;
+    font-family: 'Outfit' !important;
+}
+.border{
+    border-bottom: 1px solid rgb(205, 201, 201);
+}
+.proceed{
+    background-color: tomato !important;
+}
+.proceed:hover{
+    background-color: red !important;
+    color: white !important;
+    font-weight: bold !important;
+}
+.chip{
+    background-color: white !important;
+    border: 1px solid gray !important;
+    
+}

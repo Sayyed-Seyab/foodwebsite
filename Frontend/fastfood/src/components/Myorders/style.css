@@ -1,0 +1,23 @@
+.signup{
+    font-family: 'Outfit' !important;
+    transition: 0.9s !important;
+    background-color: white !important;
+    border: 1px solid gray !important;
+    cursor: pointer !important;
+    letter-spacing: 1px;
+}
+.signup:hover{
+    background-color: rgb(245, 211, 149) !important;
+    color: black !important;
+
+}
+
+/* Hide scrollbar for all browsers */
+.hide-scrollbar::-webkit-scrollbar {
+    display: none;
+  }
+  
+  .hide-scrollbar {
+    -ms-overflow-style: none;  /* IE and Edge */
+    scrollbar-width: none;  /* Firefox */
+  }

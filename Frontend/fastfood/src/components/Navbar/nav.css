@@ -1,0 +1,54 @@
+.active {
+
+    border-bottom: 1px solid gray;
+}
+.nav{
+    background-color: rgb(251, 236, 218) !important;
+    color: gray !important;
+     box-shadow: none !important;
+}
+
+.Notification {
+    position: relative;
+}
+
+.Dot {
+    position: absolute;
+    width: 10px;
+    height: 10px;
+    background-color: tomato;
+    border-radius: 10px;
+    right: 0px;
+}
+
+.Link {
+    padding: 10px;
+    text-decoration: none;
+    cursor: pointer;
+    color: gray;
+    display: block;
+}
+
+a {
+    padding: 10px;
+    text-decoration: none;
+    cursor: pointer;
+    color: gray;
+    display: block;
+
+}
+
+.signin {
+    margin-top: 5px !important;
+    font-size: 0.8rem !important;
+    font-family: "Outfit" !important;
+    cursor: "pointer" !important;
+    border-radius: 30px !important;
+    color: "gray" !important;
+    transition: '0.9s' !important;
+}
+.signin:hover{
+    background: red !important;
+    color: white !important;
+    font-weight: bold !important;
+}

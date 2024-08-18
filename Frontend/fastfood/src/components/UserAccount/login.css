@@ -1,0 +1,30 @@
+.login{
+    font-family: 'Outfit' !important;
+    transition: 0.9s !important;
+    background-color: white !important;
+    border: 1px solid gray !important;
+    cursor: pointer !important;
+    letter-spacing: 1px;
+}
+.login:hover{
+    background-color: red !important;
+    color: white !important;
+
+}
+
+.signup{
+    font-family: 'Outfit' !important;
+    transition: 0.9s !important;
+    background-color: white !important;
+    border: 1px solid gray !important;
+    cursor: pointer !important;
+    letter-spacing: 1px;
+}
+.signup:hover{
+    background-color: red !important;
+    color: white !important;
+
+}
+.input{
+    border: 1px solid red;
+}

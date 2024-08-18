@@ -1,0 +1,11 @@
+.btn:hover{
+    background-color: red !important
+}
+
+.Card:hover{
+    /* background-color: rgb(244, 240, 239); */
+    background-color: rgb(255, 208, 150);
+    transition: 0.9s;
+    padding: 10px;
+   
+}
